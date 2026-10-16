@@ -87,3 +87,29 @@ crashlytics-build.properties
 CLAUDE.md
 /.claude
 /Docs/.obsidian
+
+# 재배포 불가 서드파티 에셋 (포트폴리오 저장소에서 제외)
+/[Aa]ssets/[Pp]lugins/Sirenix/
+/[Aa]ssets/[Pp]lugins/Sirenix.meta
+/[Aa]ssets/19_ThirdParty/16 Fire Monster Set/
+/[Aa]ssets/19_ThirdParty/16 Fire Monster Set.meta
+/[Aa]ssets/19_ThirdParty/Artsystack - Fantasy RPG GUI/
+/[Aa]ssets/19_ThirdParty/Artsystack - Fantasy RPG GUI.meta
+/[Aa]ssets/19_ThirdParty/Elemental Spells Full Pack/
+/[Aa]ssets/19_ThirdParty/Elemental Spells Full Pack.meta
+/[Aa]ssets/19_ThirdParty/Fantasy UI SFX - Lite Edition/
+/[Aa]ssets/19_ThirdParty/Fantasy UI SFX - Lite Edition.meta
+/[Aa]ssets/19_ThirdParty/Feel/
+/[Aa]ssets/19_ThirdParty/Feel.meta
+/[Aa]ssets/19_ThirdParty/Footsteps Pack Expanded/
+/[Aa]ssets/19_ThirdParty/Footsteps Pack Expanded.meta
+/[Aa]ssets/19_ThirdParty/ForVFX/
+/[Aa]ssets/19_ThirdParty/ForVFX.meta
+/[Aa]ssets/19_ThirdParty/Synty/
+/[Aa]ssets/19_ThirdParty/Synty.meta
+/[Aa]ssets/19_ThirdParty/UI-KIT Fantasy-Nordic GUI/
+/[Aa]ssets/19_ThirdParty/UI-KIT Fantasy-Nordic GUI.meta
+/[Aa]ssets/19_ThirdParty/Universal Sound FX/
+/[Aa]ssets/19_ThirdParty/Universal Sound FX.meta
+/[Aa]ssets/19_ThirdParty/텀블벅_수정본/
+/[Aa]ssets/19_ThirdParty/텀블벅_수정본.meta
